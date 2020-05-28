@@ -1,4 +1,4 @@
-# [Programa name]
+# [Program name]
 
 
 # Description
